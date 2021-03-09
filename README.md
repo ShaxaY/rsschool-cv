@@ -1,6 +1,6 @@
 # rsschool-cv
 
-Link to my CV: [Click here](https://shaxay.github.io/rsschool-cv/cv)
+Link to my CV: [Click here](https://shaxay.github.io/rsschool-cv/)
 
 ## Contact me
 
